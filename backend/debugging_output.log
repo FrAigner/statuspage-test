@@ -1,0 +1,5 @@
+
+2025/05/21 20:46:12 [35m/workspaces/statuspage-test/backend/database.go:22
+[0m[31m[error] [0mfailed to initialize database, got error failed to connect to `host=localhost user=postgres database=statuspage`: dial error (dial tcp [::1]:5432: connect: connection refused)
+2025/05/21 20:46:12 Failed to connect to database:failed to connect to `host=localhost user=postgres database=statuspage`: dial error (dial tcp [::1]:5432: connect: connection refused)
+exit status 1
